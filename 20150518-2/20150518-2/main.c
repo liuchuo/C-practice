@@ -1,4 +1,12 @@
-//输出abc三个数中的最大数，用选择结构
+//
+//  main.c
+//  20150518-2
+//  输出abc三个数中的最大数，用选择结构
+//
+//  Created by 欣 陈 on 15/5/18.
+//  Copyright (c) 2015年 欣 陈. All rights reserved.
+//
+
 #include <stdio.h>
 int main()
 {
@@ -22,3 +30,4 @@ int main()
  else
  a>=b -> a<c  == c
  -> a>=c == a*/
+
