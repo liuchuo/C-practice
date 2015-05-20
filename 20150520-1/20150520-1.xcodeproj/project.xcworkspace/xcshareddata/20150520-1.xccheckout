@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>07D30B6A-2B86-44FB-A6FB-E91D8BDF4810</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>20150520-1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BE700DAE6E4B449F4990417E293BFC19AC2A218D</key>
 		<string>https://github.com/liuchuo/C-practice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>20150520-1/20150520-1.xcodeproj/project.xcworkspace</string>
+	<string>20150520-1/20150520-1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BE700DAE6E4B449F4990417E293BFC19AC2A218D</key>

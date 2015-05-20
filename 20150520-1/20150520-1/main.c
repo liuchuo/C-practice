@@ -4,7 +4,7 @@
 //
 //  Created by 欣 陈 on 15/5/20.
 //  Copyright (c) 2015年 欣 陈. All rights reserved.
-//
+
 //第八章 善于利用指针
 //输入三个整数 按由小到大顺序输出
 #include <stdio.h>
