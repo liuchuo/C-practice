@@ -32,7 +32,7 @@ int main(){
         }
     }
     
-    if((fp = fopen("Users\\chen\\file","w")) == NULL){
+    if((fp = fopen("/Users/chen/file","w")) == NULL){
         printf("can't open file!\n");
         exit(0);
     }
